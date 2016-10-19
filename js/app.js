@@ -1,8 +1,8 @@
 var config = {
-    apiKey: "AIzaSyAcXdvZANP7dRO_ArxvGIutaNCur7y8DJ8",
-    authDomain: "mercado-cidade.firebaseapp.com",
-    databaseURL: "https://mercado-cidade.firebaseio.com",
-    storageBucket: "mercado-cidade.appspot.com",
-    messagingSenderId: "920388454478"
+    apiKey: "AIzaSyB82jzRl8iSvlsQpx211nYTO5LleQWqRLQ",
+    authDomain: "caiocesarbrito-c084a.firebaseapp.com",
+    databaseURL: "https://caiocesarbrito-c084a.firebaseio.com",
+    storageBucket: "caiocesarbrito-c084a.appspot.com",
+    messagingSenderId: "68403191119"
   };
   firebase.initializeApp(config);
